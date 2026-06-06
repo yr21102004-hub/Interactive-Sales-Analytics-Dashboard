@@ -1,0 +1,37 @@
+Sale_Date,Product_Name,Quantity_Sold,Unit_Price,City
+2024-01-01,Mobile Phone,5,8000,Cairo
+2024-01-02,Laptop,2,15000,Alexandria
+2024-01-03,Headphones,10,500,Giza
+2024-01-04,Mobile Phone,3,8200,
+2024-01-05,Monitor,4,3000,Mansoura
+2024-01-06,Laptop,,15500,Cairo
+2024-01-07,Headphones,8,,Alexandria
+2024-01-08,,6,7900,Giza
+2024-01-09,Monitor,2,3200,Cairo
+2024-01-10,Laptop,3,14800,Mansoura
+2024-01-11,Headphones,12,400,Cairo
+2024-01-12,Mobile Phone,4,8100,Alexandria
+2024-01-13,Monitor,5,3100,Giza
+2024-01-14,Laptop,2,15200,Cairo
+2024-01-15,Headphones,15,420,Mansoura
+2024-01-16,Mobile Phone,7,8300,Cairo
+2024-01-17,Monitor,3,2900,Alexandria
+2024-01-18,Laptop,4,14900,Giza
+2024-01-19,Headphones,9,480,Cairo
+2024-01-20,Mobile Phone,2,8000,Mansoura
+2024-01-21,Monitor,6,3050,Cairo
+2024-01-22,Laptop,3,15100,Alexandria
+2024-01-23,Headphones,11,430,Giza
+2024-01-24,Mobile Phone,5,8200,Cairo
+2024-01-25,Monitor,4,3150,Mansoura
+2024-01-26,Laptop,2,15000,Cairo
+2024-01-27,Headphones,7,460,Alexandria
+2024-01-28,Mobile Phone,6,8400,Giza
+2024-01-29,Monitor,3,3000,Cairo
+2024-01-30,Laptop,1,15800,Mansoura
+
+2024-01-01,Mobile Phone,5,8000,Cairo
+2024-01-10,Laptop,3,14800,Mansoura
+2024-01-15,Headphones,15,420,Mansoura
+2024-01-20,Mobile Phone,2,8000,Mansoura
+2024-01-22,Laptop,3,15100,Alexandria
